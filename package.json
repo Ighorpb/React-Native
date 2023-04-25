@@ -10,8 +10,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "expo": "^48.0.11",
     "react": "18.2.0",
-    "react-native": "0.71.7"
+    "react-native": "0.71.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -28,7 +29,7 @@
     "metro-react-native-babel-preset": "0.73.9",
     "prettier": "^2.4.1",
     "react-test-renderer": "18.2.0",
-    "typescript": "4.8.4"
+    "typescript": "^4.9.4"
   },
   "jest": {
     "preset": "react-native"
